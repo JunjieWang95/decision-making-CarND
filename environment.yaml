@@ -75,5 +75,4 @@ dependencies:
     - termcolor==1.1.0
     - tqdm==4.31.1
     - werkzeug==0.14.1
-prefix: your_path_to/anaconda3/envs/CarND
 
