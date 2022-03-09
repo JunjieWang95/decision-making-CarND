@@ -22,6 +22,6 @@
    `cmake .. && make`
    此时运行`./path_planning`显示`connect error`为正常现象
 7. 安装anaconda3或miniconda3
-8. 修改environment.yaml中最后一行至你的conda安装位置，运行`conda env create -f environment.yaml`建立虚拟环境
+8. 运行`conda env create -f environment.yaml`建立虚拟环境
 9. 运行`decision-making-CarND/CarND-test/src/train/train.py`文件，注意事项如上
 
